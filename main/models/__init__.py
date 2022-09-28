@@ -1,0 +1,1 @@
+from .seguimiento import seguimiento as seguimientoModel
